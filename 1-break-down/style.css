@@ -1,1 +1,14 @@
 
+body {
+  font-family: Helvetica;
+}
+
+td {
+  padding: 1em 1.5em;
+  text-align: center;
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
