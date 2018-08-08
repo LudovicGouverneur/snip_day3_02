@@ -14,7 +14,9 @@ true || (("abc" > "abd") && (4 >= "3"));
 ___
 
 ## Exercises & study links.  
-* replit: [myreplit](https://repl.it/@Ludovic7127/IroncladWebbedOutcome)  
+* replit: 
+  * [global](https://repl.it/@Ludovic7127/expressions-day-3)  
+  * [specific](https://repl.it/@Ludovic7127/expressions-day-302)  
 * pytut: /
 * debugger: snippets directly in the text
 * [sketches you made](https://sketchboard.me/HA97gi8gPUEH)
