@@ -34,7 +34,7 @@ true || (("abc" > "abd") && (4 >= "3"));
    // (bool, true)
 ```
 
-* pytut: /
+* pytut: https://goo.gl/yiN4P2
 * debugger: snippets directly in the text
 * [sketches you made](https://sketchboard.me/HA97gi8gPUEH)
 
