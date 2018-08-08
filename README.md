@@ -1,5 +1,3 @@
-# snip_day3_02
-
 # And_Or_bigger_Equal
 
 ## Description and objectives
